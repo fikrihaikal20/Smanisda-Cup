@@ -1,0 +1,759 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EAD390;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+@font-face {
+    font-family: judulfont;
+    src: url(KGRedHands.ttf);
+}
+
+/* Mulai Navbar homepage */
+nav {
+    background-color: #C09769;
+    z-index: 9999;
+}
+
+nav a {
+    font-weight: 600;
+    transition: .3s;
+}
+
+.navbar-toggler,
+.navbar-toggler:focus {
+    border: none;
+    outline: none;
+}
+
+.dropdown-menu {
+    background-color: #EAD390;
+}
+
+.dropdown-menu a {
+    color: #181818;
+}
+
+/* akhir Navbar */
+
+/* Mulai Navbar Lensa dan lomba */
+.lomba nav {
+    background-color: #EAD390;
+    z-index: 9999;
+}
+
+/* akhir Navbar */
+
+/* awal homepage */
+/* awal header */
+#header {
+    margin-top: -10px;
+    background-color: #C09769;
+}
+
+#header .content {
+    padding-top: 153px;
+    padding-bottom: 100px;
+}
+
+#header .content h1 {
+    color: #4E4133;
+    padding-top: 33px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+/* akhir header */
+
+/* awal countdown */
+#hitungmundur .countdown {
+    text-align: center;
+    font-size: 64px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    color: #EAD390;
+}
+
+#hitungmundur .countdown li {
+    background-color: #C09769;
+    display: inline-block;
+    font-size: 15px;
+    list-style-type: none;
+}
+
+#hitungmundur h4 {
+    font-weight: 600;
+    color: #4E4133;
+    font-size: 18px;
+}
+
+#hitungmundur .rounded {
+    width: 60px;
+}
+
+#hitungmundur span {
+    font-size: 26px;
+}
+
+#days,
+#hours,
+#minutes,
+#seconds {
+    display: block;
+    font-size: 36px;
+    margin: 15px;
+    margin-bottom: 0px;
+}
+
+
+/* akhir countdown */
+
+/* awal about */
+#about {
+    padding-top: 10px;
+}
+
+#about img {
+    width: 300px;
+}
+
+#about .content {
+    margin-top: 60px;
+}
+
+#about .content h1 {
+    font-size: 28px;
+    text-align: center;
+    font-family: judulfont;
+    color: #4E4133;
+}
+
+#about .content p {
+    font-weight: 500;
+    margin-left: 5px;
+    font-size: 18px;
+}
+
+/* akhir about */
+
+
+/* awal kategori */
+#kategori {
+    padding-top: 100px;
+}
+
+#kategori .content {
+    padding-top: 30px;
+}
+
+#kategori .content .kotak {
+    background-color: #C09769;
+    height: 450px;
+    width: 334px;
+    margin-top: 30px;
+    transition: .3s;
+}
+
+#kategori .content .kotak:hover {
+    background-color: #C09769;
+    height: 450px;
+    width: 334px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#kategori .content .kotak p {
+    width: 300px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#kategori .content .kotak a {
+    color: black;
+    font-size: 20px;
+}
+
+/* akhir kategori */
+
+/* awal gambar2 */
+
+.wayang2 {
+    z-index: -9999;
+    position: absolute;
+    right: 0px;
+    top: 1750px;
+}
+
+.wayang1 {
+    z-index: -9999;
+    position: absolute;
+    left: 0px;
+    top: 3000px;
+}
+
+.awan1 {
+    z-index: 1;
+    position: absolute;
+    left: -30px;
+    top: -45px;
+    visibility: hidden;
+}
+
+.awan2 {
+    z-index: 1;
+    position: absolute;
+    right: 0;
+    top: 0;
+    visibility: hidden;
+}
+
+
+/* akhir gambar2 */
+
+/* awal medpart */
+#medpart {
+    padding-top: 100px;
+}
+
+#medpart .content {
+    padding-top: 45px;
+}
+
+/* akhir medpart */
+
+/* akhir homepage */
+
+/* awal lensa */
+/* ---------- Header LENSA ---------- */
+#header-lensa h1 {
+    font-size: 80px;
+    font-weight: 800;
+    padding-top: 120px;
+    letter-spacing: 0.1em;
+    color: #4E4133;
+}
+
+#header-lensa h4 {
+    font-weight: 700;
+    font-size: 15px;
+    color: #4E4133;
+    letter-spacing: 0.2em;
+    text-align: center;
+}
+
+/* ---------- about LENSA ---------- */
+#about-lensa {
+    margin-top: 100px;
+    padding-top: 100px;
+}
+
+#about-lensa p {
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+#about-lensa h2 {
+    font-size: 28px;
+}
+
+/* akhir lensa */
+
+/* ---------- styling lomba-lomba ---------- */
+#about-lomba {
+    padding-top: 100px;
+}
+
+#about-lomba p {
+    padding-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+/* img lomba */
+#ml img,
+#pubg img,
+#freestylesoccer img,
+#band img,
+#solvoc img,
+#dance img,
+#mipa img,
+#english img,
+#mipu img,
+#essay img,
+#monolog-video img,
+#majalah-online img,
+#karakter-design img,
+#comic-strip img {
+    width: 300px;
+}
+
+/* utility lomba */
+#ml p,
+#pubg p,
+#freestylesoccer p,
+#band p,
+#solvoc p,
+#dance p,
+#mipa p,
+#english p,
+#mipu p,
+#essay p,
+#monolog-video p,
+#majalah-online p,
+#karakter-design p,
+#comic-strip p {
+    font-size: 16px;
+}
+
+/* ---------- styling lomba-lomba ---------- */
+
+/* awal Footer */
+footer {
+    background-color: #C09769;
+    margin-top: 120px;
+    padding-bottom: 15px;
+}
+
+.inf a {
+    color: #181818;
+    font-size: 18px;
+}
+
+.inf a:hover {
+    text-decoration: none;
+    color: #181818;
+    font-size: 18px;
+}
+
+footer hr {
+    border: 1px solid #181818;
+    margin-top: 86px;
+}
+
+footer a {
+    color: #181818;
+    font-size: 13px;
+    transition: .3s;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: #181818;
+    font-size: 13px;
+}
+
+footer .copyright {
+    max-width: fit-content;
+}
+
+.foto1 {
+    margin: 73px 17px 0px;
+}
+
+.foto2 {
+    margin-top: 64px;
+    margin-right: 17px;
+}
+
+.foto3 {
+    margin-top: 70px;
+    margin-right: 17px;
+}
+
+.foto4 {
+    margin-top: 73px;
+}
+
+.logo2 {
+    margin-bottom: 12px;
+}
+
+.folus img {
+    height: 43px;
+    width: 43px;
+    margin-right: 16px;
+}
+
+.copyright {
+    font-size: 18px;
+}
+
+.copyright p {
+    font-size: 13px;
+    color: #181818;
+}
+
+/* akhir Footer */
+
+/* TABLET ONLY */
+@media (min-width: 768px) {
+
+    /* Kategori */
+    .wayang2 {
+        right: 0px;
+        top: 1500px;
+    }
+
+    .wayang1 {
+        left: 0px;
+        top: 2500px;
+    }
+
+}
+
+/* DESKTOP ONLY */
+@media (min-width: 992px) {
+
+    #header .content h1 {
+        font-size: 48px;
+    }
+
+    /* hitung mundur */
+    #hitungmundur h4 {
+        font-size: 28px;
+    }
+
+    #hitungmundur .rounded {
+        width: auto;
+    }
+
+    #hitungmundur span {
+        font-size: 46px;
+    }
+
+    /* about home */
+    #about img {
+        width: auto;
+    }
+
+    #about .content h1 {
+        text-align: left;
+        font-size: 36px;
+    }
+
+    #about .content p {
+        font-weight: 500;
+        margin-left: 0;
+        font-size: 24px;
+    }
+
+    /* medpart */
+    #medpart .content {
+        padding-top: 70px;
+    }
+
+    /* foto random */
+    .wayang2 {
+        z-index: -9999;
+        position: absolute;
+        right: 0px;
+        top: 1600px;
+    }
+
+    .wayang1 {
+        z-index: -9999;
+        position: absolute;
+        left: 0px;
+        top: 2000px;
+    }
+
+    .awan1 {
+        z-index: 1;
+        position: absolute;
+        left: -30px;
+        top: -40px;
+        visibility: visible;
+    }
+
+    .awan2 {
+        z-index: 1;
+        position: absolute;
+        right: -30px;
+        top: -40px;
+        visibility: visible;
+    }
+
+    /* awal footer */
+    footer {
+        margin-top: 150px;
+    }
+
+    footer a,
+    footer a:hover {
+        font-size: 18px;
+    }
+
+    footer h3 {
+        margin: 89px 0px 25px;
+    }
+
+    .copyright p {
+        font-size: 18px;
+    }
+
+    .foto1 {
+        width: 70px;
+        height: 70px;
+    }
+
+    .foto2 {
+        width: 78px;
+        height: 79px;
+    }
+
+    .foto3 {
+        width: 59px;
+        height: 73px;
+    }
+
+    .foto4 {
+        width: 67px;
+        height: 66px;
+    }
+
+    /* akhir footer */
+
+    /* headings */
+
+    h2 {
+        /* judul header setiap section */
+        font-size: 48px;
+    }
+
+    /* bagian lomba2 */
+    #about-lomba p {
+        padding-top: 60px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 840px;
+        font-weight: 500;
+        font-size: 24px;
+    }
+
+    #ml img,
+    #pubg img,
+    #freestylesoccer img,
+    #band img,
+    #solvoc img,
+    #dance img,
+    #mipa img,
+    #english img,
+    #mipu img,
+    #essay img,
+    #monolog-video img,
+    #majalah-online img,
+    #karakter-design img,
+    #comic-strip img {
+        width: auto;
+    }
+
+    #ml p,
+    #pubg p,
+    #freestylesoccer p,
+    #band p,
+    #solvoc p,
+    #dance p,
+    #mipa p,
+    #english p,
+    #mipu p,
+    #essay p,
+    #monolog-video p,
+    #majalah-online p,
+    #karakter-design p,
+    #comic-strip p {
+        font-size: 18px;
+    }
+
+    /* LENSA */
+    #header-lensa h1 {
+        font-size: 200px;
+        font-weight: 800;
+        padding-top: 120px;
+        letter-spacing: 0.1em;
+        color: #4E4133;
+    }
+
+    #header-lensa h4 {
+        font-weight: 700;
+        font-size: 36px;
+        color: #4E4133;
+        letter-spacing: 0.2em;
+        line-height: 54px;
+        text-align: center;
+    }
+
+    #about-lensa {
+        margin-top: 100px;
+        padding-top: 100px;
+    }
+
+    #about-lensa p {
+        padding-top: 60px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 840px;
+        font-weight: 500;
+        font-size: 24px;
+    }
+
+    #about-lensa h2 {
+        font-size: 48px;
+    }
+}
+
+/* Utility */
+
+/* Headings */
+
+h2 {
+    /* judul header setiap section */
+    font-size: 36px;
+    font-family: judulfont;
+    color: #4E4133;
+}
+
+h3 {
+    /* untuk footer */
+    font-size: 24px;
+    font-weight: bold;
+    color: #181818;
+    margin: 44.5px 0px 25px;
+}
+
+/* Modal */
+.modal-header h4 {
+    font-weight: 650;
+}
+
+.modal-body span {
+    font-weight: bold;
+}
+
+/* -------------- Button ---------------- */
+.act-btn {
+    /* btn back to top */
+    background: #EAD390;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    color: #4E4133;
+    font-size: 30px;
+    -webkit-border-radius: 50%;
+    transition: background-color .3s, opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    z-index: 99999;
+}
+
+.act-btn:hover {
+    color: #4E4133;
+    cursor: pointer;
+}
+
+.act-btn.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+.btn {
+    /* btn daftar & juknis */
+    height: 40px;
+    background-color: #C09769;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-top: 40px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    margin-right: 15px;
+}
+
+.btn:hover {
+    box-shadow: none;
+}
+
+.btn-daftar-sekarang {
+    /* btn daftar segera bawah countdown */
+    text-decoration: none;
+    background: #4E4133;
+    border-radius: 22px;
+    padding: 14px 37px;
+    border: none;
+    font-weight: 600;
+    color: white;
+}
+
+.btn-daftar-sekarang:hover {
+    text-decoration: none;
+    background: #4E4133;
+    border-radius: 22px;
+    padding: 14px 37px;
+    border: none;
+    font-weight: 600;
+    color: white;
+    box-shadow: none;
+}
+
+
+/* --------- Left Aligned Stuff (template lomba2) --------- */
+.h4 {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    margin-top: 32px;
+
+}
+
+.p1 {
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.h5 {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.p2 {
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 30%);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 70%);
+    border-radius: 20px;
+}
