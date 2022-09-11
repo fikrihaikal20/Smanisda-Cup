@@ -1,2 +1,3 @@
-# Source Code Web Smanisda Cup 2021
- 
+# Web Smanisda Cup 2021
+
+Source code dari website Smanisda Cup 2021 (Discosia)
