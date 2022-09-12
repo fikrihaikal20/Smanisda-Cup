@@ -21,12 +21,12 @@ Website Smanisda Cup 2021 adalah website yang digunakan untuk mendaftar pada Sma
 
 ## Credit
 
-> Supervisor
+- Supervisor
     - Daffa Kurnia F
-> Project Leader
+- Project Leader
     - M. Fikri Haikal
-> Coordinator
+- Coordinator
     - Thoriq Kusuma Paramaditya
-> Project member
+- Project member
     - Adjisaka Pandhu Aksara
     - Jilan Nabilah Dikariono
