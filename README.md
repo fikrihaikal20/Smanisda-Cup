@@ -1,6 +1,6 @@
 # Web Smanisda Cup 2021
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/prmdtya/Smanisda-Cup-web) ![GitHub last commit](https://img.shields.io/github/last-commit/prmdtya/Smanisda-Cup-web) ![GitHub followers](https://img.shields.io/github/followers/prmdtya?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/prmdtya?style=social)
 
 Website Smanisda Cup 2021 adalah website yang digunakan untuk mendaftar pada Smanisda Cup 2021.
 ## Fitur pada web Smanisda Cup
