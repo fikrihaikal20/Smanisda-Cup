@@ -1,6 +1,6 @@
 # Web Smanisda Cup 2021
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![Figma]({https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white})
 
 Website Smanisda Cup 2021 adalah website yang digunakan untuk mendaftar pada Smanisda Cup 2021.
 ## Fitur pada web Smanisda Cup
