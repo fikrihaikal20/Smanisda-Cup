@@ -1,7 +1,8 @@
-# Web Smanisda Cup 2021
+<h1 align="center"> Web Smanisda Cup 2021 <br>
+<img src="https://img.shields.io/github/contributors-anon/prmdtya/Smanisda-Cup-web" alt="GitHub contributors"> <img src="https://img.shields.io/github/last-commit/prmdtya/Smanisda-Cup-web" alt="GitHub last commit"> <img src="https://img.shields.io/github/followers/prmdtya?style=social" alt="GitHub followers"> <img src="https://img.shields.io/github/stars/prmdtya?style=social" alt="GitHub User's stars">
+</h1>
 
-![GitHub contributors](https://img.shields.io/github/contributors-anon/prmdtya/Smanisda-Cup-web) ![GitHub last commit](https://img.shields.io/github/last-commit/prmdtya/Smanisda-Cup-web) ![GitHub followers](https://img.shields.io/github/followers/prmdtya?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/prmdtya?style=social)
-
+<br>
 Website Smanisda Cup 2021 adalah website yang digunakan untuk mendaftar pada Smanisda Cup 2021.
 ## Fitur pada web Smanisda Cup
 - Registrasi Lomba
