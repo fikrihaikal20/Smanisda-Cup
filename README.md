@@ -1,6 +1,5 @@
 <h1 align="center"> 
 <img align="center" src="https://github.com/prmdtya/Smanisda-Cup-web/blob/main/frontend/images/discosiabesar.png" width = "700"> <br><br>
-Web Smanisda Cup 2021 <br>
 <img src="https://img.shields.io/github/contributors-anon/prmdtya/Smanisda-Cup-web" alt="GitHub contributors"> <img src="https://img.shields.io/github/last-commit/prmdtya/Smanisda-Cup-web" alt="GitHub last commit"> <img src="https://img.shields.io/github/followers/prmdtya?style=social" alt="GitHub followers"> <img src="https://img.shields.io/github/stars/prmdtya?style=social" alt="GitHub User's stars">
 </h1>
 
