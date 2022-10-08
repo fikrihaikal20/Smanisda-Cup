@@ -6,6 +6,7 @@ Web Smanisda Cup 2021 <br>
 
 <br>
 Website Smanisda Cup 2021 adalah website yang digunakan untuk mendaftar pada Smanisda Cup 2021.
+
 ## Fitur pada web Smanisda Cup
 - Registrasi Lomba
 
