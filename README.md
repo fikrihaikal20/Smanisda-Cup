@@ -1,6 +1,8 @@
 <h1 align="center"> 
 <img align="center" src="https://github.com/prmdtya/Smanisda-Cup-web/blob/main/frontend/images/discosiabesar.png" width = "700"> <br><br>
-<img src="https://img.shields.io/github/contributors-anon/prmdtya/Smanisda-Cup-web" alt="GitHub contributors"> <img src="https://img.shields.io/github/last-commit/prmdtya/Smanisda-Cup-web" alt="GitHub last commit"> <img src="https://img.shields.io/github/followers/prmdtya?style=social" alt="GitHub followers"> <img src="https://img.shields.io/github/stars/prmdtya?style=social" alt="GitHub User's stars">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/prmdtya/Smanisda-Cup-web?style=flat-square"> <br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/prmdtya?style=for-the-badge">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/prmdtya/Smanisda-Cup-web?style=for-the-badge">
 </h1>
 
 <br>
