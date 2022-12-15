@@ -1,12 +1,12 @@
 <h1 align="center"> 
-<img align="center" src="https://github.com/prmdtya/Smanisda-Cup-web/blob/main/frontend/images/discosiabesar.png" width = "700"> <br><br>
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/prmdtya/Smanisda-Cup-web?style=for-the-badge">
-<img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fprmdtya.github.io%2FSmanisda-Cup-web%2F">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/prmdtya?style=for-the-badge">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/prmdtya/Smanisda-Cup-web?style=for-the-badge">
+<img align="center" src="https://github.com/prmditya/Smanisda-Cup-web/blob/main/frontend/images/discosiabesar.png" width = "700"> <br><br>
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/prmditya/Smanisda-Cup-web?style=for-the-badge">
+<img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fsmanisda-cup-web.vercel.app%2F">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/prmditya?style=for-the-badge">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/prmditya/Smanisda-Cup-web?style=for-the-badge">
 </h1>
 
-[Website Smanisda Cup 2021](https://prmdtya.github.io/Smanisda-Cup-web/) adalah website yang digunakan untuk mendaftar pada Smanisda Cup 2021.
+[Website Smanisda Cup 2021](https://smanisda-cup-web.vercel.app/) adalah website yang digunakan untuk mendaftar pada Smanisda Cup 2021.
 
 ## Fitur pada web Smanisda Cup
 - Registrasi Lomba
