@@ -6,7 +6,7 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/prmditya/Smanisda-Cup-web?style=for-the-badge">
 </h1>
 
-[Website Smanisda Cup 2021](https://prmditya.github.io/Smanisda-Cup-web/](https://smanisda-cup-web.vercel.app/) adalah website yang digunakan untuk mendaftar pada Smanisda Cup 2021.
+[Website Smanisda Cup 2021](https://smanisda-cup-web.vercel.app/) adalah website yang digunakan untuk mendaftar pada Smanisda Cup 2021.
 
 ## Fitur pada web Smanisda Cup
 - Registrasi Lomba
